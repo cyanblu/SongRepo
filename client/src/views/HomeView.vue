@@ -1,9 +1,8 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+import SongList from "@/components/Songlist.vue";
 </script>
 
+
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <SongList />
 </template>
