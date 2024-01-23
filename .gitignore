@@ -32,4 +32,7 @@ build/
 ### VS Code ###
 .vscode/
 
-client_v2
+
+client/node_modules/
+db/datenbank.mv.db
+db
